@@ -22,6 +22,6 @@ function sortearAmigo(){
   listaAmigos.style.color='green'
   const namigolista= document.createElement("li")
   console.log(elegido)
-  namigolista.textContent=amigos[elegido]
+  namigolista.textContent="El amigo secreto sorteado es: "+amigos[elegido]
   listaAmigos.append(namigolista)
 }
