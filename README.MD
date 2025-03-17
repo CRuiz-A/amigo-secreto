@@ -1,7 +1,8 @@
-<em> # Pagina Amigo Secreto </em>
+# *Página Amigo Secreto*  
 
-:white_check_mark: Proyecto en construcción :white_check_mark:
+:white_check_mark: **Proyecto en construcción** :white_check_mark:  
 
-## :hammer:Funcionalidades del proyecto
+## :hammer: Funcionalidades del proyecto  
 
-- `Funcionalidad 1`: Almacenar los nombres de los amigos ingresados- `Funcionalidad 2`: Seleccionar uno aleatoriamente entre estos
+- `Funcionalidad 1`: Almacenar los nombres de los amigos ingresados.  
+- `Funcionalidad 2`: Seleccionar uno aleatoriamente entre estos.  
