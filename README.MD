@@ -1,6 +1,6 @@
 <em> # Pagina Amigo Secreto </em>
 
-:check: Proyecto en construcción :check:
+:white_check_mark: Proyecto en construcción :white_check_mark:
 
 ## :hammer:Funcionalidades del proyecto
 
