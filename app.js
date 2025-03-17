@@ -25,3 +25,4 @@ function sortearAmigo(){
   namigolista.textContent="El amigo secreto sorteado es: "+amigos[elegido]
   listaAmigos.append(namigolista)
 }
+ 
